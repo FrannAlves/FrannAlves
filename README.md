@@ -16,8 +16,10 @@ API REST
 
 
 
-Você pode me encontrar no [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francielle-alves-949385270/)
+Você pode me encontrar no
+
+[![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francielle-alves-949385270/)
 
 Fique à vontade para entrar em contato comigo para discussões técnicas, colaborações ou qualquer outra oportunidade interessante. Vamos aprender e crescer juntos!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrannAlves)](https://github.com/FrannAlves)
+
