@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!;Meu+nome+é+Francielle+Alves;Atualmente+estou+cursando+Engenharia+de+Software;Tenho+me+dedicado+ao+desenvolvimento+de+software;com+foco+em+backend;Bem-vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!;Meu+nome+é+Francielle+Alves;Bem-vindos!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FrannAlves&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -8,10 +8,7 @@
 
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FrannAlves&show_icons=true&count_private=true&hide_border=true&title_color=FF69B4&height&icon_color=FF69B4&height&text_color=c9d1d9&bg_color=0d1117" alt="Francielle github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrannAlves&layout=compact&hide_border=true&title_color=FF69B4&height&text_color=FF69B4&height&bg_color=0d1117" />
-</div>
+
 
 
 
